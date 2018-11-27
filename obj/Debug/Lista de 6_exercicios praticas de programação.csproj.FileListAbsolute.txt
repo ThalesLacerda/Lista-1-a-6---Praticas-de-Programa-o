@@ -1,0 +1,16 @@
+C:\Users\Lemuel\Desktop\lista_6_exerc-cios--master\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csprojAssemblyReference.cache
+C:\Users\Lemuel\Desktop\lista_6_exerc-cios--master\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csprojAssemblyReference.cache
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csproj.CoreCompileInputs.cache
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.exe.config
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.exe
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.pdb
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.exe
+C:\Users\Lemuel\Desktop\Lista de 6_exercicios praticas de programação\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.pdb
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.exe.config
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.exe
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\bin\Debug\Lista de 6_exercicios praticas de programação.pdb
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csprojAssemblyReference.cache
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.csproj.CoreCompileInputs.cache
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.exe
+C:\Users\Thales\Desktop\Exercicios C#\Lista de exercicio 1 a 6\Lista de 6_exercicios praticas de programação\obj\Debug\Lista de 6_exercicios praticas de programação.pdb
